@@ -1,11 +1,11 @@
 steps:
-- name: kubectl
+- name: apply-template
   image: lachlanevenson/k8s-kubectl
   args:
   - apply
   - -f
   - knative-build-template.yaml
-- name: kubectl
+- name: apply-function
   image: lachlanevenson/k8s-kubectl
   args:
   - apply
