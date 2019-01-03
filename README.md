@@ -29,4 +29,4 @@ What the build happen, revision get ready, deployment created and pod started
 
 then send message via Azure Storage queue portal interface
 
-check the logs on your Pod.
+check the logs on your Pod
