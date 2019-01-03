@@ -1,6 +1,6 @@
  # Demo of Azure function runtime on knative
 
-This is a demo ...
+This is a demo ... to test stuff and some other stuff
 
 Prep your function
 
@@ -29,4 +29,4 @@ What the build happen, revision get ready, deployment created and pod started
 
 then send message via Azure Storage queue portal interface
 
-check the logs on your Pod.
+check the logs on your Pod
